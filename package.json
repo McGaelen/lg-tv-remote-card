@@ -1,0 +1,17 @@
+{
+  "name": "lg-tv-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lg-tv-remote-card.js",
+  "dependencies": {
+    "@rollup/plugin-node-resolve": "^13.2.1",
+    "lit": "^2.2.2",
+    "rollup": "^2.70.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC"
+}
